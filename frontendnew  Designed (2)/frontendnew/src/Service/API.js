@@ -1,0 +1,1 @@
+var Admin="https://localhost:44380/api/Auth/Authenticate"
